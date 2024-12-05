@@ -1,5 +1,5 @@
 # arcane-calculator
-Calculator for the Arcane Discord bot. It can calculate both the probability of getting at least x XP in y minutes (assuming a message is sent every minute) and the minimum number of minutes to get x XP, assuming average luck and bad luck.
+Calculator for the Arcane Discord bot. It can calculate the probability of getting at least x XP in y minutes (assuming a message is sent every minute).
 
 This calculator requires you to have a Google account (if you have a YouTube channel then you have a Google account). Your Google account can stay private, you do not need to share it. There are 2 different methods to access this calculator.
 
